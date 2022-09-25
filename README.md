@@ -7,7 +7,7 @@
  
  
  
- # Blood Deluxe DDoS
+ # Husuki Deluxe DDoS
 
  DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, BFM, etc..)(It works intermittently. Working on it)<br/><br/>
  Don't attack any websites you don't own it<br/>
@@ -94,7 +94,7 @@ To be deleted or replaced
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/firstapostle/Blood.git
+git clone https://github.com/dungti2k6/Husuki/
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
@@ -105,14 +105,14 @@ Install Chrome (or update it lastest version)
 OR
  - python3 setup.py
 
- - python3 BloodLinux.py
+ - python3 husuku.py
 ```
 ## Usage on Windows
 ```sh
 Install python - https://www.python.org
 Install Git - https://gitforwindows.org (instruction in telegram-channel. contact @AuraNetz or @CyberEducational or @MiraiLove )
 
-git clone https://github.com/firstapostle/Blood
+git clone https://github.com/dungti2k6/Husuki/
 cd Blood
 python3 setup.py / py setup.py
 Нажимаем 1
@@ -133,7 +133,7 @@ pkg install wget
 pkg install rust
 pip install supertools wheel
 pip install shutup
-git clone https://github.com/firstapostle/Blood
+git clone https://github.com/dungti2k6/Husuki/
 cd Blood
 export CARGO_BUILD_TARGET=aarch64-linux-android && python3 -m pip install cryptography
 export CARGO_BUILD_TARGET==aarch64-linux-android && python3 -m pip install -r requirements.txt
@@ -153,9 +153,8 @@ Use command line : python3 husuki.py <method> <target> <thread> <time>
 
 ## Contact Developer
 ```sh
- tg - @lifemiles
- ds - lifemiles#1960
-```
+ Dung Ti
+Ngo Hoang Viet```
 
 
 ## My messages
