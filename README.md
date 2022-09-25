@@ -26,7 +26,7 @@ Or https://boosty.to/lifemiles
 </div>
 
 ## Menu
-![image](https://user-images.githubusercontent.com/96767456/167305588-8049db11-64d1-43e2-908e-ac05724a0e3b.png)
+![image](https://i.imgur.com/uIAYGFB.png)
 
 
 ## RULES
@@ -116,7 +116,7 @@ git clone https://github.com/firstapostle/Blood
 cd Blood
 python3 setup.py / py setup.py
 Нажимаем 1
-python3 blood.py / py blood.py
+python3 blood.py / py husuki.py
 
 
 ```
@@ -140,15 +140,15 @@ export CARGO_BUILD_TARGET==aarch64-linux-android && python3 -m pip install -r re
 python3 -m pip install httpx[http2]
 python3 setup.py
 Нажимаем 1
-python3 blood.py
+python3 husuki.py
 
 
 ```
 ## Example
 ```sh
-Use DDoS Panel   : python3 blood.py
-Use command line : python3 blood.py <method> <target> <thread> <time>
-      └──────────> python3 blood.py cfb https://example.com 100 30
+Use DDoS Panel   : python3 husuki.py
+Use command line : python3 husuki.py <method> <target> <thread> <time>
+      └──────────> python3 husuki.py cfb https://example.com 100 30
 ```
 
 ## Contact Developer
